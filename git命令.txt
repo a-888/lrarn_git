@@ -1,0 +1,11 @@
+新建
+mkdir 名字
+
+初始化仓库
+git init
+
+
+git config --global user.name ""
+git config --global user.email ""
+git config --global --list  来检查
+git status 查看git状态
