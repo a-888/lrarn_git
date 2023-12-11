@@ -9,3 +9,5 @@ git config --global user.name ""
 git config --global user.email ""
 git config --global --list  来检查
 git status 查看git状态
+git add .添加
+git commit -m "加上你的说明"
