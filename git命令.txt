@@ -11,3 +11,6 @@ git config --global --list  来检查
 git status 查看git状态
 git add .添加
 git commit -m "加上你的说明"
+检查 Git 配置： 请确保你的 Git 配置中没有不正确的设置。可以执行以下命令查看全局配置：
+git config --global --list
+如果有不正确的配置，可以使用git config --global --unset <key>
